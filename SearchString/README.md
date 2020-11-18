@@ -5,7 +5,7 @@ This script search a string in every field of each table of a database.
 ## Setup the script
 
 Type the string to search for
-![](/img/01_Script_setup.JPG)
+![](./img/01_Script_setup.JPG)
 
 
 Because, the search in the database is very slow, you can limit the search in large tables
