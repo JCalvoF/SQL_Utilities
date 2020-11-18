@@ -13,6 +13,7 @@ Whith this two variables, you can control the search in big tables, or tables wi
 @rowcountmax = x
 @rowcountmin = y
 To deactivate this filter, just comment this two lines
+
 ![](./img/03_rowcount_filter_Inactive.JPG)
 
 Also, you can filter using table name or column name
@@ -21,7 +22,7 @@ Also, you can filter using table name or column name
 
 The script, by default exclude numeric fields and other non string types, but you can activate it just comenting the desired part of code
 
-![](./img/umericTypeFilter.JPG)
+![](./img/NumericTypeFilter.JPG)
 
 
 ## Executing the script
